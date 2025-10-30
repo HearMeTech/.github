@@ -60,6 +60,23 @@ The scope is optional and should be a noun in parentheses describing the section
 * `chore: update eslint configuration`
 * `docs(readme): add project setup instructions`
 
+## 🚀 Our Technology & Standards
+
+Our platform consists of several key components. Please adhere to the specific standards for the area you are contributing to:
+
+* **Backend (Python):** * We follow the [PEP 8 Style Guide](https://peps.python.org/pep-0008/).
+    * All code must be formatted using `Black` before committing.
+    * We use `Firebase Admin SDK` for backend services.
+
+* **Frontend (React/TypeScript):** * We use `ESLint` and `Prettier` for code linting and formatting.
+    * We follow the [Airbnb React/JSX Style Guide](https://airbnb.io/javascript/react/) as a baseline for best practices.
+
+* **iOS (Swift):** * We adhere to Apple's [Swift API Design Guidelines](https://www.swift.org/documentation/api-design-guidelines/).
+    * We encourage a clean, protocol-oriented architecture (e.g., MVVM-C).
+
+* **Android (Kotlin):** * We follow Google's [official Kotlin style guide](https://developer.android.com/kotlin/style-guide).
+    * We adhere to [Android development best practices](https://developer.android.com/develop/quality-guidelines/core-app-quality) (e.g., MVVM, Repository pattern).
+    
 ---
 
 Thank you for contributing to HearMeTech!
