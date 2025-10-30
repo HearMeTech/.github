@@ -30,6 +30,15 @@ We are focused on developing:
 * **An intuitive mobile app** ('Hear Me') that serves as a personal voice assistant and communicator.
 * **Future integrations** with keyboards, voice assistants (Siri, Google), and messaging apps to bring accessibility everywhere.
 
+### 🛠️ Our Tech Stack
+
+We are building a robust, scalable, and high-performance platform using modern technologies:
+
+* **Mobile (Native):** Swift (iOS) & Kotlin (Android)
+* **Web Frontend:** React + TypeScript
+* **Backend & AI:** Python 
+* **Infrastructure:** Firebase (Authentication, Firestore, Cloud Functions, Hosting)
+
 ### 🚀 Join Our Mission
 
 This is more than just code. This is about unlocking human potential.

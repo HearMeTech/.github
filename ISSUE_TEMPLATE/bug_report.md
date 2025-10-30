@@ -24,10 +24,11 @@ A clear and concise description of what you expected to happen.
 What actually happened? (Include screenshots if possible!)
 
 **5. Context (Please complete)**
-* **Device:** [e.g., iPhone 14, Dell Laptop]
-* **Operating System:** [e.g., iOS 17, Windows 11]
-* **Browser (if applicable):** [e.g., Chrome, Safari]
-* **App Version (if applicable):** [e.g., 1.0.1]
+* **Platform:** [e.g., iOS, Android, Web Browser]
+* **Device:** [e.g., iPhone 14, Google Pixel 7, Dell Laptop]
+* **OS Version:** [e.g., iOS 17.1, Android 14, Windows 11]
+* **Browser (if Web):** [e.g., Chrome, Safari]
+* **App Version (if Mobile):** [e.g., 1.0.1]
 
 **Additional context**
 Add any other context about the problem here.
