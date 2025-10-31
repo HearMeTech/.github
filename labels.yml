@@ -1,0 +1,58 @@
+# Our organization's "source of truth" for GitHub labels.
+# Synced by .github/workflows/label-sync.yml
+
+# 1. Type
+- name: "type: bug"
+  description: "An error or unexpected behavior in the application."
+  color: "d73a4a"
+- name: "type: enhancement"
+  description: "A new feature request or an improvement to an existing one."
+  color: "0a9396"
+- name: "type: chore"
+  description: "Internal tasks not visible to the user (e.g., refactoring, CI/CD, dependency updates)."
+  color: "cfd8dc"
+- name: "type: documentation"
+  description: "Improvements or additions to READMEs, guides, or other documentation."
+  color: "005f73"
+
+# 2. Priority
+- name: "P0: critical"
+  description: "Production is broken. All hands on deck. Blocks releases."
+  color: "b60205"
+- name: "P1: high"
+  description: "High-priority issue or a key feature for the current sprint."
+  color: "f4e04d"
+- name: "P2: medium"
+  description: "Default priority for most tasks."
+  color: "94d2bd"
+- name: "P3: low"
+  description: "Nice to have, but not urgent. Can be addressed in the future."
+  color: "f7f7f7"
+
+# 3. Status
+- name: "status: needs-triage"
+  description: "Newly created issue. Needs review, prioritization, and assignment."
+  color: "fbca04"
+- name: "status: in-progress"
+  description: "This issue is actively being worked on."
+  color: "94d2bd"
+- name: "status: blocked"
+  description: "Work is blocked by another task, external dependency, or needs more information."
+  color: "d73a4a"
+- name: "status: good first issue"
+  description: "A great task for a new team member or an external contributor."
+  color: "005f73"
+
+# 4. Stack
+- name: "stack: frontend"
+  description: "Related to the web client (React, TypeScript, CSS)."
+  color: "94d2bd"
+- name: "stack: backend"
+  description: "Related to the Python API (FastAPI, business logic)."
+  color: "0a9396"
+- name: "stack: ai-ml"
+  description: "Related to the core AI models, training, or Vertex AI pipeline."
+  color: "005f73"
+- name: "stack: platform"
+  description: "Related to infrastructure (GCP, Firebase config, CI/CD, DevOps)."
+  color: "001219"
