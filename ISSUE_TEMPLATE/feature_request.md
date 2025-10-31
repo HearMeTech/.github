@@ -1,8 +1,8 @@
 ---
 name: "💡 Feature Request"
-about: Suggest an idea or new feature for HearMeTech.
+about: Suggest an idea or new feature for HearMe.
 title: "[FEATURE] "
-labels: enhancement, needs-triage
+labels: ["type: enhancement", "status: needs-triage"]
 ---
 
 **We love hearing new ideas!** To help us understand your needs, please tell us more about your suggestion.
