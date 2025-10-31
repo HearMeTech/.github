@@ -4,7 +4,16 @@ Thank you for your interest in contributing to our mission. We are building tech
 
 These guidelines help us maintain a high standard of quality and consistency across all our projects.
 
-## 💻 Our Workflow
+## 1. Start With an Issue
+
+All work on HearMeTech projects—whether it's a new feature, a bug fix, or documentation—must begin with a GitHub Issue.
+
+1.  **Check for existing issues:** Before you start, please search the Issues list to see if an issue for your work already exists.
+2.  **Create a new issue:** If one doesn't exist, please create a new one using the appropriate template (Bug Report or Feature Request).
+3.  **Wait for triage:** The core team will review (triage) the issue, assign the correct labels (priority, stack), and discuss the implementation.
+4.  **Start work:** Once the issue is triaged and approved, you can proceed to create a branch and start development.
+
+## 2. 💻 Our Workflow
 
 To ensure stability, we protect our `main` branch. All changes must be submitted via a Pull Request (PR).
 

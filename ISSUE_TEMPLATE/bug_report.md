@@ -2,7 +2,7 @@
 name: "🐛 Bug Report"
 about: Create a report to help us find and fix a problem.
 title: "[BUG] "
-labels: bug
+labels: ["type: bug", "status: needs-triage"]
 ---
 
 **Thank you for helping us improve HearMeTech!** Please provide the following details so we can resolve the issue quickly.
