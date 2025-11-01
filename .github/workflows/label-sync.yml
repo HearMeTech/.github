@@ -15,6 +15,6 @@ jobs:
       - name: "Run Label Sync"
         uses: "EndBug/label-sync@v2"
         with:
-          config-file: "https://raw.githubusercontent.com/HearMeTech/.github/main/labels.yml"
+          config-file: "https://raw.githubusercontent.com/HearMeTech/.github/main/config/labels.yml"
           token: "${{ secrets.GITHUB_TOKEN }}"
           delete-other-labels: true
