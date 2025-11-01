@@ -36,14 +36,14 @@ We are building a robust, scalable, and high-performance platform using modern t
 
 * **Mobile (Native):** Swift (iOS) & Kotlin (Android)
 * **Web Frontend:** React + TypeScript
-* **Backend & AI:** Python 
+* **Backend & AI:** Python
 * **Infrastructure:** Firebase (Authentication, Firestore, Cloud Functions, Hosting)
 
 ### 🚀 Join Our Mission
 
 This is more than just code. This is about unlocking human potential.
 
-* **Learn more** about our product on our [official website](https://hear-me.live).
+* **Learn more** about our product on our [official website](https://hearme.tech).
 * **See how to help** by reading our [Contribution Guidelines](./CONTRIBUTING.md).
 * **Join the team** (career opportunities coming soon).
 

@@ -12,7 +12,7 @@ We appreciate the efforts of security researchers and the community in helping u
 
 If you believe you have discovered a security vulnerability in any `HearMeTech` repository or service, please report it to us privately.
 
-**Email us at: `security@hear-me.live`**
+**Email us at: `security@hearme.tech`**
 
 ### What to Include
 

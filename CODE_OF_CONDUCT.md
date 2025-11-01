@@ -39,7 +39,7 @@ This Code of Conduct applies within all project spaces (our GitHub repositories,
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the `HearMeTech` leadership, who are responsible for enforcement.
 
-Please contact us at **[contact@hearme.tech]**. *(Note: This email address should be a confidential and monitored inbox).*
+Please contact us at **[conduct@hearme.tech]**. *(Note: This email address should be a confidential and monitored inbox).*
 
 All complaints will be reviewed and investigated promptly and fairly. All project leaders are obligated to respect the privacy and security of the reporter of any incident.
 
