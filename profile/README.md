@@ -44,7 +44,7 @@ We are building a robust, scalable, and high-performance platform using modern t
 This is more than just code. This is about unlocking human potential.
 
 * **Learn more** about our product on our [official website](https://hearme.tech).
-* **See how to help** by reading our [Contribution Guidelines](./CONTRIBUTING.md).
+* **See how to help** by reading our [Contribution Guidelines](../CONTRIBUTING.md).
 * **Join the team** (career opportunities coming soon).
 
 **Let's build a world where everyone can be heard.**
