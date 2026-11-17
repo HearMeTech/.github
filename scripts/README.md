@@ -54,10 +54,11 @@ Finds and deletes remote branches that have already been merged into the reposit
 
 ### 4. `audit-org-repos.sh`
 
-Performs a safe, read-only security and configuration audit across matching repositories, outputting a summary table of visibility, default branch protection, open PR count, and Dependabot alert status.
+Performs a safe, read-only security and health audit across matching repositories, outputting a summary table of visibility, repository size, last push date, default branch protection, branch count, open PRs, open issues, and Dependabot alert status.
 
 ```bash
-./scripts/audit-org-repos.sh *                  # Audit all org repositories
+./scripts/audit-org-repos.sh                    # Audit all org repositories (default)
+./scripts/audit-org-repos.sh 'hearme-*'         # Audit specific matching repositories
 ```
 
 ### 5. `generate-org-changelog.sh`

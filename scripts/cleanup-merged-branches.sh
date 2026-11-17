@@ -28,7 +28,7 @@ is_protected() {
 }
 
 check_prerequisites
-resolve_repositories "${1:-}"
+resolve_repositories "$@"
 
 declare -A REPO_BRANCHES_TO_DELETE
 TOTAL_BRANCHES=0

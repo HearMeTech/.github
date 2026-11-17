@@ -17,7 +17,7 @@ source "$SCRIPT_DIR/common.sh"
 KEEP_COUNT=5
 
 check_prerequisites
-resolve_repositories "${1:-}"
+resolve_repositories "$@"
 
 declare -A REPO_RUNS_TO_DELETE
 TOTAL_TO_DELETE=0

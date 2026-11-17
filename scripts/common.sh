@@ -23,6 +23,13 @@ check_prerequisites() {
 # Resolves a repository name or wildcard pattern (e.g., "web", "hearme-*", "*")
 # Sets the global array TARGET_REPOS with full "Owner/Repo" names.
 resolve_repositories() {
+    # Guard against unquoted shell wildcard expansion (e.g., running `./script.sh *` without quotes)
+    if [ "$#" -gt 1 ]; then
+        echo "Error: Multiple arguments detected ($*)." >&2
+        echo "Hint: If you used a wildcard like * or hearme-*, wrap it in single quotes: '$1' or run the script without arguments." >&2
+        exit 1
+    fi
+
     local input_pattern="${1:-}"
 
     if [ -z "$input_pattern" ]; then

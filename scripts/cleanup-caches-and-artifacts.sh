@@ -17,7 +17,7 @@ source "$SCRIPT_DIR/common.sh"
 RETENTION_DAYS=7
 
 check_prerequisites
-resolve_repositories "${1:-}"
+resolve_repositories "$@"
 
 CUTOFF_DATE=$(date -u -d "$RETENTION_DAYS days ago" +"%Y-%m-%dT%H:%M:%SZ")
 
