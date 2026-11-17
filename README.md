@@ -31,6 +31,9 @@ This repository is the **Single Source of Truth** for our team's guiding princip
 * **[❤️ Code of Conduct](./CODE_OF_CONDUCT.md)**
   * Our pledge to an inclusive, respectful, and empathetic community.
 
+* **[🛠️ Maintenance Scripts](./scripts/README.md)**
+  * Utility scripts for repository administration and GitHub Actions maintenance.
+
 ### Our Public Profile
 
 What the world sees. This defines our mission for anyone visiting our GitHub organization page.
